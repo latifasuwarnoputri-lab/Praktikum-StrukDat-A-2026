@@ -9,9 +9,9 @@ x = "Ucup" # x adalah tipe data str
 print(x)
 
 #casting berguna untuk menentukan tipe data
-x = str(5)    # x akan jadi '5'
-y = int(5)    # y akan jadi 5
-z = float(5)  # z akan jadi 5.0
+x = str(6)    # x akan jadi '5'
+y = int(89)    # y akan jadi 89
+z = float(45)  # z akan jadi 45.
 
 #mengetahui tipe data dengan type()
 c = 3
@@ -33,15 +33,15 @@ print(s)
 #penulisan nama variabel
 
 #camel case
-iniNamanyaVariabel = "asli"
+iniNamanyaVariabel = "lapar"
 #setiap huruf awal setelah kata pertama menggunakan huruf besar
 
 #pascal case
-IniNamanyaVariabel = "asli"
+IniNamanyaVariabel = "makan"
 #setiap huruf awal pada setiap kata menggunakan huruf besar
 
 #snake case
-ini_namanya_variabel = "asli"
+ini_namanya_variabel = "nasi goreng"
 #setiap kata dipisahkan dengan garis bawah (_)
 
 #memasukkan variabel lebih dari satu

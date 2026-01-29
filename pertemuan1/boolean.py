@@ -3,21 +3,21 @@
 a = 45
 b = 76
 
-if b > a:
-  print("b lebih besar dari a")
+if b < a:
+  print("b lebih kecil dari a")
 else:
-  print("b lebih besar dari a")
+  print("a lebih kecil dari b")
 
 #mengevaluasi nilai boolean
 #Fungsi ini bool()memungkinkan Anda untuk mengevaluasi nilai apa pun, dan memberikan hasil berupa nilai True atau False
 
 #evaluasi nilai dan angka
-print(bool("Hello")) #output= True
-print(bool(15)) #output= True
+print(bool("annyeong")) #output= True
+print(bool(35)) #output= True
 
 #mengevaluasi dua variabel
-x = "Hello"
-y = 15
+x = "Nyawit"
+y = 45
 
 print(bool(x)) #output= True
 print(bool(y)) #output= True
@@ -66,5 +66,5 @@ else:
 
 
 #Periksa apakah suatu objek merupakan bilangan bulat atau bukan:
-x = 200
+x = 345
 print(isinstance(x, int)) #output= True

@@ -27,31 +27,31 @@ print(b[2:])
 #output= yang, bunda!
 
 #slice negatif
-b = "Hello, World!"
-print(b[-5:-2]) #Dari: "o" dalam "World!" (posisi -5) termasuk, tetapi tidak termasuk: "d" dalam "World!" (posisi -2):
-#output= orl
+b = "Harta dunia"
+print(b[-5:-2]) #mulai dari index ke -5 sampai index ke -2 (tidak termasuk index ke -2)
+#output= dun
 
 #modifikasi string
 #upper case = mengubah semua karakter jadi huruf besar
-a = "Hello, World!"
+a = "bahagia selalu"
 print(a.upper())
 
 #lower case = mengubah semua karakter jadi huruf kecil
-a = "Hello, World!"
+a = "serta muliaaa"
 print(a.lower())
 
 #remove whitespace = menghapus spasi dan tab di awal atau akhir string
-a = "  Hello, World! "
+a = "  panjang umurnya "
 print(a.strip())
- #output "Hello, World!"
+ #output= "panjang umurnya"
 
 #replace = mengganti karakter dengan karakter lain
-a = "Hello, World!"
-print(a.replace("H", "J"))
+a = "baik hatinya"
+print(a.replace("h", "J"))
 
 #split = membagi string menjadi substring berdasarkan pemisah tertentu
-a = "Hello, World!"
-print(a.split(",")) #output = ['Hello', ' World!']
+a = "hidup, ini, sangat, lawak, sekali"
+print(a.split(",")) #output = ['hidup', ' ini', ' sangat', ' lawak', ' sekali'] 
 
 #menggabungkan string
 #menggabungkan variabel a dan b menjadi variabel c
@@ -80,12 +80,12 @@ rupiah = 60
 txt = f"harganya itu {rupiah} ribu"
 print(txt) #output = harganya itu 60 ribu
 
-price = 59
-txt = f"The price is {price:.2f} dollars" #Tampilkan harga dengan 2 angka desimal
+luas = 60
+txt = f"sawitnya {luas:.2f} hektar" #Tampilkan harga dengan 2 angka desimal
 print(txt) 
 
 #Lakukan operasi matematika di tempat penampung, dan kembalikan hasilnya:
-txt = f"The price is {20 * 59} dollars"
+txt = f"harga mangga {7 + 12} ribu"
 print(txt)
 
 #escape character

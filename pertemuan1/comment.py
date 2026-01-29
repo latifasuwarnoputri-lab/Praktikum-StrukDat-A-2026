@@ -7,9 +7,10 @@ print("Hello, World!")
 print(" EEEE A")
 
 """
-This is a comment
-written in
-more than just one line
+petik tiga dapat digunakan 
+untuk komentar lebih dari 
+satu baris
+
 """
-print("Hello, World!") #komentar dengan tiga petik
+print("aku suka kamu!") #komentar dengan tiga petik
 
