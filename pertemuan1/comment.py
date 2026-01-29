@@ -7,6 +7,7 @@ print("selamat pagiii")
 print(" EEEE A")
 
 
+
 """
 petik tiga itu dapat digunakan 
 untuk komentar lebih dari 

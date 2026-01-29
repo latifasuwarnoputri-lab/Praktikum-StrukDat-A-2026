@@ -1,5 +1,6 @@
 #mengkonversi tipe data (casting)
 
+
 """"
 int() - membuat bilangan bulat dari literal bilangan bulat, 
 literal bilangan pecahan (dengan menghilangkan semua desimal), 

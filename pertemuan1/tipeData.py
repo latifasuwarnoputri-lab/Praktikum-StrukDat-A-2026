@@ -37,7 +37,7 @@ x = int(35)	#int
 x = float(20.5)	#float	
 x = complex(1j)	#complex	
 x = list(("apple", "banana", "cherry"))	#list	
-x = tuple(("apple", "banana", "cherry"))	#tuple	
+x = tuple(("apple", "banana", "strawberry"))	#tuple	
 x = range(6)	#range	
 x = dict(name="kartini", age = 67)	#dict	
 x = set(("apple", "banana", "cherry"))	#set	

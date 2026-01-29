@@ -1,5 +1,6 @@
 #Cetak pesan berdasarkan apakah kondisinya True atau false:
 
+
 a = 45
 b = 76
 

@@ -5,6 +5,7 @@ print("naruto suka makan 'naruto' di ramennya")# kutipan dalam kutipan dapat dig
 a = 'warkop DKI'
 print(a)
 
+
 #memasukkan string di banyak baris dengan menggunakan tiga kutipan """
 a = """satu ditambah satu sama dengan? 
 dua!

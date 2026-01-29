@@ -107,6 +107,7 @@ myfunc()
 
 print("Python itu " + x)
 
+
 #jika menggunakan kata kunci global, variabelnya akan menjadi global
 def myfunc():
   global x

@@ -2,6 +2,7 @@
 print("dunia meriah")
 print('dunia meriah')
 
+
 #print tanpa new line
 print("dunia yang indah", end= " ")
 print("dan menarik")
