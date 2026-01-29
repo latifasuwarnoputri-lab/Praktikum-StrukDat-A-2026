@@ -1,16 +1,16 @@
 #komentar seperti ini
-print("Hello, World!")
+print("selamat pagiii")
 
 #komen ini
 #diketik
 #dengan lebih dari satu baris
 print(" EEEE A")
 
+
 """
-petik tiga dapat digunakan 
+petik tiga itu dapat digunakan 
 untuk komentar lebih dari 
 satu baris
 
 """
 print("aku suka kamu!") #komentar dengan tiga petik
-
