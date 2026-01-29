@@ -70,9 +70,9 @@ print(c) #output = aku jawa
 
 #F-string
 #letakkan `f' di depan literal string, dan tambahkan kurung kurawal {}sebagai tempat penampung untuk variabel dan operasi lainnya.
-age = 36
-txt = f"My name is John, I am {age}"
-print(txt) #output = My name is John, I am 36
+umur = 20
+txt = f"Tahun ini aku akan menjadi seseorang berumur {umur}"
+print(txt) #output = Tahun ini aku akan menjadi seseorang berumur 20
 
 #placeholder and modifier
 #placeholder dapat berisi variabel, operasi, fungsi, dan pengubah untuk memformat nilai

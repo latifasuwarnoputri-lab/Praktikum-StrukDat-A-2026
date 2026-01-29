@@ -16,3 +16,9 @@ x = float(25)     # x jadi 25.0
 y = float(2.8)   # y jadi 2.8
 z = float("3")   # z jadi 3.0
 
+#Str() mengubah nilai ke tipe data string
+
+x = str("A2") # x akan menjadi "A2"
+y = str(57)    # y akan menjadi '57'
+z = str(45,6)  # z akan menjadi '45,6
+
