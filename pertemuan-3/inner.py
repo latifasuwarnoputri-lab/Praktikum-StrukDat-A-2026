@@ -84,6 +84,7 @@ class Computer:
     def store(self):
       print("Storing data...")
 
+
 computer = Computer()
 computer.cpu.process()
 computer.ram.store()

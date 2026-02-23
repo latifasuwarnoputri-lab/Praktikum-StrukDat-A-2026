@@ -85,6 +85,7 @@ class Student(Person):
     super().__init__(fname, lname)
     self.graduationyear = year
 
+
   def welcome(self):
     print("Welcome", self.firstname, self.lastname, "to the class of", self.graduationyear)
 

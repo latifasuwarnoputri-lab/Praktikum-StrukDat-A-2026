@@ -68,6 +68,7 @@ class Person:
     self.name = name
     self.__age = age
 
+
 p1 = Person("Emil", 30)
 
 # This is how Python mangles the name:
